@@ -9,6 +9,7 @@ from operator import pos
 import pygame as py# call the libarary
 import math
 py.init()
+# aloooooooooo
 
 black=(0,0,0)#declare some colors(optional)
 white=(255,255,255)
