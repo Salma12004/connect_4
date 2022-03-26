@@ -27,7 +27,7 @@ void create_board(){
         }
     }cout<<endl;
 } 
-
+ 
 bool horizontal_winning(char playersympol){// function to check horizontal winning 
     int i=0;
     for (int row=5; row>=0;row--){// to loop in each row in the board in reverse order
